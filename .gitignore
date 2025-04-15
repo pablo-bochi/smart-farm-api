@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+.idea/
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride

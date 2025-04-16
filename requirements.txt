@@ -5,6 +5,5 @@ django-celery-results
 kombu
 psycopg2-binary
 pandas
-geopandas
 shapely
 gunicorn
